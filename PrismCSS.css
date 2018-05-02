@@ -110,6 +110,7 @@ pre[class*="language-"] {
 	color: #f8f8f2;
 }
 
+.language-csharp .token.class-name,
 .language-cpp .token.class-name {
         color: #09f69a;
 }
