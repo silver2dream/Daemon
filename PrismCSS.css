@@ -83,7 +83,7 @@ pre[class*="language-"] {
 .token.char,
 .token.builtin,
 .token.inserted {
-	color: #a6e22e;
+	color: #e24c2e;
 }
 
 .token.operator,
