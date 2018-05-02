@@ -101,11 +101,11 @@ pre[class*="language-"] {
 .token.atrule,
 .token.attr-value,
 .token.function {
-	color: #e6db74;
+	color: #f8f8f2;
 }
 
 .token.keyword {
-	color: #66d9ef;
+	color: #569cd6;
 }
 
 .token.regex,
