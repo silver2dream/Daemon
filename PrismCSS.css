@@ -126,8 +126,12 @@ pre[class*="language-"] {
 	color: #fd971f;
 }
 
-.language-cpp .token.directive.keyword {
-        color: #7257c5;
+.token.macro {
+        color: #86368c;
+}
+
+.token.directive.keyword {
+	color: #86368c;
 }
 
 .language-cpp .token.class-name {
