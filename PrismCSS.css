@@ -50,11 +50,11 @@ pre[class*="language-"] {
 }
 
 .token.comment {
-        color: #434e1e
+        color: #62c557;
 }
 
 .token.macro {
-        color: #7257c5
+        color: #7257c5;
 }
 
 .token.prolog,
@@ -71,9 +71,12 @@ pre[class*="language-"] {
 	opacity: .7;
 }
 
+.token.constant {
+       color: #c5c557;
+}
+
 .token.property,
 .token.tag,
-.token.constant,
 .token.symbol,
 .token.deleted {
 	color: #f92672;
