@@ -129,7 +129,7 @@ pre[class*="language-"] {
 	color: #fd971f;
 }
 
-.language-clike .token.macro {
+.language-cpp .token.macro {
         color: #7257c5;
 }
 
