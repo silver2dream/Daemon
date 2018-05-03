@@ -116,10 +116,6 @@ pre[class*="language-"] {
 	color: #f8f8f2;
 }
 
-.language-clike .token.class-name {
-        color: #4fdcc6;
-}
-
 .token.keyword {
 	color: #569cd6;
 }
@@ -131,6 +127,10 @@ pre[class*="language-"] {
 
 .language-cpp .token.macro {
         color: #7257c5;
+}
+
+.language-cpp .token.class-name {
+        color: #4fdcc6;
 }
 
 .token.important,
