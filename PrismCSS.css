@@ -129,7 +129,7 @@ pre[class*="language-"] {
         color: #7257c5;
 }
 
-.language-cpp .token.class-name {
+.token.class-name {
         color: #4fdcc6;
 }
 
