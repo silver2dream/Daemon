@@ -65,6 +65,7 @@ pre[class*="language-"] {
 
 .namespace {
 	opacity: .7;
+	color: #e3c10d;
 }
 
 .token.constant {
@@ -125,11 +126,11 @@ pre[class*="language-"] {
 	color: #fd971f;
 }
 
-.language-cpp .token.macro {
+.token.macro {
         color: #7257c5;
 }
 
-.token.class-name {
+.language-cpp .token.class-name {
         color: #4fdcc6;
 }
 
