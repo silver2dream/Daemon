@@ -126,7 +126,7 @@ pre[class*="language-"] {
 	color: #fd971f;
 }
 
-.token.macro.property {
+.language-cpp .token.macro {
         color: #7257c5;
 }
 
